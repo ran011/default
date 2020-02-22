@@ -1,0 +1,9 @@
+.App {
+  font-family: "Trebuchet MS";
+  text-align: left;
+}
+
+.bigbox {
+  background: rgb(500, 500, 500);
+  width: 125px;
+}
